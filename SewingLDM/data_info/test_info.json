@@ -1,0 +1,436 @@
+{
+  "skirt_levels": {
+    "skirt_levels__pencil-skirt_flare_0.6": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_flare_0.63": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_flare_0.66": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_flare_0.69": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_flare_0.72": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_flare_0.75": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_flare_0.78": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_flare_0.81": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_flare_0.84": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_flare_0.87": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_flare_0.9": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_flare_0.93": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_flare_0.96": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_flare_0.99": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_flare_1.02": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_flare_1.05": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_flare_1.08": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_flare_1.11": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_flare_1.14": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_flare_1.17": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_flare_1.2": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_flare_1.23": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_flare_1.26": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_flare_1.29": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_flare_1.32": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_flare_1.35": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_flare_1.38": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_flare_1.41": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_flare_1.44": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_flare_1.47": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_front_slit_0.0": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_front_slit_0.03": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_front_slit_0.06": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_front_slit_0.09": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_front_slit_0.12": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_front_slit_0.15": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_front_slit_0.18": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_front_slit_0.21": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_front_slit_0.24": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_front_slit_0.27": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_front_slit_0.3": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_front_slit_0.33": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_front_slit_0.36": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_front_slit_0.39": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_front_slit_0.42": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_front_slit_0.45": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_front_slit_0.48": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_front_slit_0.51": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_front_slit_0.54": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_front_slit_0.57": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_front_slit_0.6": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_front_slit_0.63": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_front_slit_0.66": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_length_0.2": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_length_0.225": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_length_0.25": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_length_0.275": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_length_0.3": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_length_0.325": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_length_0.35": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_length_0.375": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_length_0.4": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_length_0.425": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_length_0.45": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_length_0.475": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_length_0.5": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_length_0.525": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_length_0.55": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_length_0.575": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_length_0.6": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_length_0.625": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_length_0.65": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_length_0.675": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_length_0.7": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_length_0.725": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_length_0.75": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_length_0.775": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_length_0.8": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_length_0.825": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_length_0.85": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_length_0.875": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_length_0.9": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_length_0.925": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_-10": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_-12": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_-14": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_-16": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_-18": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_-2": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_-20": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_-22": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_-24": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_-26": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_-28": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_-30": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_-4": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_-6": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_-8": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_0": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_10": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_12": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_14": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_16": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_18": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_2": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_20": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_22": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_24": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_26": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_28": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_30": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_4": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_6": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_low_angle_8": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_rise_0.5": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_rise_0.5167": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_rise_0.5333": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_rise_0.55": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_rise_0.5667": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_rise_0.5833": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_rise_0.6": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_rise_0.6167": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_rise_0.6333": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_rise_0.65": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_rise_0.6667": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_rise_0.6833": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_rise_0.7": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_rise_0.7167": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_rise_0.7333": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_rise_0.75": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_rise_0.7667": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_rise_0.7833": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_rise_0.8": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_rise_0.8167": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_rise_0.8333": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_rise_0.85": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_rise_0.8667": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_rise_0.8833": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_rise_0.9": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_rise_0.9167": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_rise_0.9333": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_rise_0.95": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_rise_0.9667": {
+      "body_name": "00000"
+    },
+    "skirt_levels__pencil-skirt_rise_0.9833": {
+      "body_name": "00000"
+    }
+  }
+}
