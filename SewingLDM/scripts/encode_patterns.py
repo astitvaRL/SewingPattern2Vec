@@ -241,7 +241,7 @@ if __name__ == '__main__':
     max_edge = config.data.start_config['max_panel_len']
     pattern_embeddings = {}
     for item_idx in tqdm(range(len(dataset))):
-        batch = dataset.__getitem__(item_idx)
+        batch = dataset.__getitem__(item_idx, missing_caption_warning=False)
         cloths_info = batch['ground_truth']
         bs = len(batch['data_folder'])
         pattern = cloths_info['outlines'].unsqueeze(0)
@@ -261,4 +261,8 @@ if __name__ == '__main__':
         pattern_emb = tokenizer.encode_vector(input_data)
         pattern_embeddings[batch['name']] = pattern_emb.cpu().detach()
 
-    torch.save(pattern_embeddings, 'pattern_embeddings.pt')
+    batch_0 = dataset.__getitem__(0, missing_caption_warning=False)
+    save_name = batch_0['name'].split('__')[0] + '_pattern_embeddings.pt'
+    save_dir = config.data['root_dir']
+    save_path = os.path.join(save_dir, save_name)
+    torch.save(pattern_embeddings, save_path)

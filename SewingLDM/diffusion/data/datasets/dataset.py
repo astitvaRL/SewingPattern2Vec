@@ -172,7 +172,7 @@ class GarmentDetrDataset(Dataset):
         """Number of entries in the dataset"""
         return len(self.datapoints_names)
 
-    def __getitem__(self, idx):
+    def __getitem__(self, idx, missing_caption_warning=True):
         """Called when indexing: read the corresponding data.
         Does not support list indexing"""
         if torch.is_tensor(idx):  # allow indexing by tensors
@@ -184,7 +184,7 @@ class GarmentDetrDataset(Dataset):
         name = os.path.basename(gt_folder)
         folder = os.path.dirname(gt_folder)
 
-        condition, ground_truth, body_params, sketch = self._get_sample_info(datapoint_name, gt_folder, body_name)
+        condition, ground_truth, body_params, sketch = self._get_sample_info(datapoint_name, gt_folder, body_name, missing_caption_warning=missing_caption_warning)
 
         # stitches
         if "stitch_adj" in ground_truth.keys():
@@ -303,7 +303,7 @@ class GarmentDetrDataset(Dataset):
             print('Data cached!')
 
     # ----- Sample -----
-    def _get_sample_info(self, datapoint_name, gt_folder, body_name=None):
+    def _get_sample_info(self, datapoint_name, gt_folder, body_name=None, missing_caption_warning=True):
         """
             Get features and Ground truth prediction for requested data example
         """
@@ -330,7 +330,8 @@ class GarmentDetrDataset(Dataset):
                             condition = {'caption': [item.strip() for item in f.readlines()][0]}
                     else:
                         condition = {'caption': ''}
-                        print("Caption file doesn't exist! Using empty caption..")
+                        if missing_caption_warning:
+                            print("Caption file doesn't exist! Using empty caption..")
             else:
                 condition = None
             if self.feature_caching:

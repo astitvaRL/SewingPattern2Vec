@@ -1,5 +1,5 @@
 _base_ = ['../pixart_diffusion.py']
-data_root = 'D:\GarmentGen\GarmentCodeData\GarmentCodeData_v2'
+data_root = 'D:\GarmentGen\GarmentCode\SAMPLED_garments'
 
 start_config = {
     'max_pattern_len': 39,
