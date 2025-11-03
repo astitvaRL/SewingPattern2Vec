@@ -1,903 +1,390 @@
 {
-  "shirt": {
-    "shirt__0": {
+  "skirt_straight": {
+    "skirt_straight__0": {
       "body_name": "00000"
     },
-    "shirt__1": {
+    "skirt_straight__1": {
       "body_name": "00000"
     },
-    "shirt__2": {
+    "skirt_straight__3": {
       "body_name": "00000"
     },
-    "shirt__3": {
+    "skirt_straight__4": {
       "body_name": "00000"
     },
-    "shirt__4": {
+    "skirt_straight__5": {
       "body_name": "00000"
     },
-    "shirt__5": {
+    "skirt_straight__6": {
       "body_name": "00000"
     },
-    "shirt__6": {
+    "skirt_straight__7": {
       "body_name": "00000"
     },
-    "shirt__7": {
+    "skirt_straight__8": {
       "body_name": "00000"
     },
-    "shirt__8": {
+    "skirt_straight__9": {
       "body_name": "00000"
     },
-    "shirt__9": {
+    "skirt_straight__10": {
       "body_name": "00000"
     },
-    "shirt__10": {
+    "skirt_straight__11": {
       "body_name": "00000"
     },
-    "shirt__11": {
+    "skirt_straight__12": {
       "body_name": "00000"
     },
-    "shirt__12": {
+    "skirt_straight__13": {
       "body_name": "00000"
     },
-    "shirt__13": {
+    "skirt_straight__14": {
       "body_name": "00000"
     },
-    "shirt__14": {
+    "skirt_straight__15": {
       "body_name": "00000"
     },
-    "shirt__15": {
+    "skirt_straight__16": {
       "body_name": "00000"
     },
-    "shirt__16": {
+    "skirt_straight__17": {
       "body_name": "00000"
     },
-    "shirt__17": {
+    "skirt_straight__18": {
       "body_name": "00000"
     },
-    "shirt__18": {
+    "skirt_straight__19": {
       "body_name": "00000"
     },
-    "shirt__19": {
+    "skirt_straight__20": {
       "body_name": "00000"
     },
-    "shirt__20": {
+    "skirt_straight__21": {
       "body_name": "00000"
     },
-    "shirt__21": {
+    "skirt_straight__22": {
       "body_name": "00000"
     },
-    "shirt__22": {
+    "skirt_straight__23": {
       "body_name": "00000"
     },
-    "shirt__23": {
+    "skirt_straight__24": {
       "body_name": "00000"
     },
-    "shirt__24": {
+    "skirt_straight__25": {
       "body_name": "00000"
     },
-    "shirt__25": {
+    "skirt_straight__26": {
       "body_name": "00000"
     },
-    "shirt__26": {
+    "skirt_straight__27": {
       "body_name": "00000"
     },
-    "shirt__27": {
+    "skirt_straight__28": {
       "body_name": "00000"
     },
-    "shirt__28": {
+    "skirt_straight__29": {
       "body_name": "00000"
     },
-    "shirt__29": {
+    "skirt_straight__30": {
       "body_name": "00000"
     },
-    "shirt__30": {
+    "skirt_straight__31": {
       "body_name": "00000"
     },
-    "shirt__31": {
+    "skirt_straight__32": {
       "body_name": "00000"
     },
-    "shirt__32": {
+    "skirt_straight__33": {
       "body_name": "00000"
     },
-    "shirt__33": {
+    "skirt_straight__34": {
       "body_name": "00000"
     },
-    "shirt__34": {
+    "skirt_straight__35": {
       "body_name": "00000"
     },
-    "shirt__35": {
+    "skirt_straight__36": {
       "body_name": "00000"
     },
-    "shirt__36": {
+    "skirt_straight__37": {
       "body_name": "00000"
     },
-    "shirt__37": {
+    "skirt_straight__38": {
       "body_name": "00000"
     },
-    "shirt__38": {
+    "skirt_straight__39": {
       "body_name": "00000"
     },
-    "shirt__39": {
+    "skirt_straight__40": {
       "body_name": "00000"
     },
-    "shirt__40": {
+    "skirt_straight__41": {
       "body_name": "00000"
     },
-    "shirt__41": {
+    "skirt_straight__42": {
       "body_name": "00000"
     },
-    "shirt__42": {
+    "skirt_straight__43": {
       "body_name": "00000"
     },
-    "shirt__43": {
+    "skirt_straight__44": {
       "body_name": "00000"
     },
-    "shirt__44": {
+    "skirt_straight__45": {
       "body_name": "00000"
     },
-    "shirt__45": {
+    "skirt_straight__46": {
       "body_name": "00000"
     },
-    "shirt__46": {
+    "skirt_straight__47": {
       "body_name": "00000"
     },
-    "shirt__47": {
+    "skirt_straight__48": {
       "body_name": "00000"
     },
-    "shirt__48": {
+    "skirt_straight__49": {
       "body_name": "00000"
     },
-    "shirt__49": {
+    "skirt_straight__50": {
       "body_name": "00000"
     },
-    "shirt__50": {
+    "skirt_straight__51": {
       "body_name": "00000"
     },
-    "shirt__51": {
+    "skirt_straight__52": {
       "body_name": "00000"
     },
-    "shirt__52": {
+    "skirt_straight__53": {
       "body_name": "00000"
     },
-    "shirt__53": {
+    "skirt_straight__54": {
       "body_name": "00000"
     },
-    "shirt__54": {
+    "skirt_straight__55": {
       "body_name": "00000"
     },
-    "shirt__55": {
+    "skirt_straight__56": {
       "body_name": "00000"
     },
-    "shirt__56": {
+    "skirt_straight__57": {
       "body_name": "00000"
     },
-    "shirt__57": {
+    "skirt_straight__58": {
       "body_name": "00000"
     },
-    "shirt__58": {
+    "skirt_straight__59": {
       "body_name": "00000"
     },
-    "shirt__59": {
+    "skirt_straight__60": {
       "body_name": "00000"
     },
-    "shirt__60": {
+    "skirt_straight__61": {
       "body_name": "00000"
     },
-    "shirt__61": {
+    "skirt_straight__62": {
       "body_name": "00000"
     },
-    "shirt__62": {
+    "skirt_straight__63": {
       "body_name": "00000"
     },
-    "shirt__63": {
+    "skirt_straight__64": {
       "body_name": "00000"
     },
-    "shirt__64": {
+    "skirt_straight__65": {
       "body_name": "00000"
     },
-    "shirt__65": {
+    "skirt_straight__66": {
       "body_name": "00000"
     },
-    "shirt__66": {
+    "skirt_straight__67": {
       "body_name": "00000"
     },
-    "shirt__67": {
+    "skirt_straight__68": {
       "body_name": "00000"
     },
-    "shirt__68": {
+    "skirt_straight__69": {
       "body_name": "00000"
     },
-    "shirt__69": {
+    "skirt_straight__70": {
       "body_name": "00000"
     },
-    "shirt__70": {
+    "skirt_straight__71": {
       "body_name": "00000"
     },
-    "shirt__71": {
+    "skirt_straight__72": {
       "body_name": "00000"
     },
-    "shirt__72": {
+    "skirt_straight__73": {
       "body_name": "00000"
     },
-    "shirt__73": {
+    "skirt_straight__74": {
       "body_name": "00000"
     },
-    "shirt__74": {
+    "skirt_straight__75": {
       "body_name": "00000"
     },
-    "shirt__75": {
+    "skirt_straight__77": {
       "body_name": "00000"
     },
-    "shirt__76": {
+    "skirt_straight__78": {
       "body_name": "00000"
     },
-    "shirt__77": {
+    "skirt_straight__79": {
       "body_name": "00000"
     },
-    "shirt__78": {
+    "skirt_straight__80": {
       "body_name": "00000"
     },
-    "shirt__79": {
+    "skirt_straight__81": {
       "body_name": "00000"
     },
-    "shirt__80": {
+    "skirt_straight__83": {
       "body_name": "00000"
     },
-    "shirt__81": {
+    "skirt_straight__84": {
       "body_name": "00000"
     },
-    "shirt__82": {
+    "skirt_straight__85": {
       "body_name": "00000"
     },
-    "shirt__83": {
+    "skirt_straight__86": {
       "body_name": "00000"
     },
-    "shirt__84": {
+    "skirt_straight__87": {
       "body_name": "00000"
     },
-    "shirt__85": {
+    "skirt_straight__88": {
       "body_name": "00000"
     },
-    "shirt__86": {
+    "skirt_straight__89": {
       "body_name": "00000"
     },
-    "shirt__87": {
+    "skirt_straight__90": {
       "body_name": "00000"
     },
-    "shirt__88": {
+    "skirt_straight__91": {
       "body_name": "00000"
     },
-    "shirt__89": {
+    "skirt_straight__92": {
       "body_name": "00000"
     },
-    "shirt__90": {
+    "skirt_straight__93": {
       "body_name": "00000"
     },
-    "shirt__91": {
+    "skirt_straight__94": {
       "body_name": "00000"
     },
-    "shirt__92": {
+    "skirt_straight__96": {
       "body_name": "00000"
     },
-    "shirt__93": {
+    "skirt_straight__97": {
       "body_name": "00000"
     },
-    "shirt__94": {
+    "skirt_straight__98": {
       "body_name": "00000"
     },
-    "shirt__95": {
+    "skirt_straight__99": {
       "body_name": "00000"
     },
-    "shirt__96": {
+    "skirt_straight__100": {
       "body_name": "00000"
     },
-    "shirt__97": {
+    "skirt_straight__101": {
       "body_name": "00000"
     },
-    "shirt__98": {
+    "skirt_straight__102": {
       "body_name": "00000"
     },
-    "shirt__99": {
+    "skirt_straight__103": {
       "body_name": "00000"
     },
-    "shirt__100": {
+    "skirt_straight__105": {
       "body_name": "00000"
     },
-    "shirt__101": {
+    "skirt_straight__106": {
       "body_name": "00000"
     },
-    "shirt__102": {
+    "skirt_straight__107": {
       "body_name": "00000"
     },
-    "shirt__103": {
+    "skirt_straight__108": {
       "body_name": "00000"
     },
-    "shirt__104": {
+    "skirt_straight__109": {
       "body_name": "00000"
     },
-    "shirt__105": {
+    "skirt_straight__110": {
       "body_name": "00000"
     },
-    "shirt__106": {
+    "skirt_straight__111": {
       "body_name": "00000"
     },
-    "shirt__107": {
+    "skirt_straight__112": {
       "body_name": "00000"
     },
-    "shirt__108": {
+    "skirt_straight__113": {
       "body_name": "00000"
     },
-    "shirt__109": {
+    "skirt_straight__114": {
       "body_name": "00000"
     },
-    "shirt__110": {
+    "skirt_straight__116": {
       "body_name": "00000"
     },
-    "shirt__111": {
+    "skirt_straight__117": {
       "body_name": "00000"
     },
-    "shirt__112": {
+    "skirt_straight__118": {
       "body_name": "00000"
     },
-    "shirt__113": {
+    "skirt_straight__120": {
       "body_name": "00000"
     },
-    "shirt__114": {
+    "skirt_straight__121": {
       "body_name": "00000"
     },
-    "shirt__115": {
+    "skirt_straight__122": {
       "body_name": "00000"
     },
-    "shirt__116": {
+    "skirt_straight__124": {
       "body_name": "00000"
     },
-    "shirt__117": {
+    "skirt_straight__125": {
       "body_name": "00000"
     },
-    "shirt__118": {
+    "skirt_straight__126": {
       "body_name": "00000"
     },
-    "shirt__119": {
+    "skirt_straight__127": {
       "body_name": "00000"
     },
-    "shirt__120": {
+    "skirt_straight__128": {
       "body_name": "00000"
     },
-    "shirt__121": {
+    "skirt_straight__130": {
       "body_name": "00000"
     },
-    "shirt__122": {
+    "skirt_straight__131": {
       "body_name": "00000"
     },
-    "shirt__123": {
+    "skirt_straight__132": {
       "body_name": "00000"
     },
-    "shirt__124": {
+    "skirt_straight__133": {
       "body_name": "00000"
     },
-    "shirt__125": {
+    "skirt_straight__134": {
       "body_name": "00000"
     },
-    "shirt__126": {
+    "skirt_straight__135": {
       "body_name": "00000"
     },
-    "shirt__127": {
+    "skirt_straight__136": {
       "body_name": "00000"
     },
-    "shirt__128": {
-      "body_name": "00000"
-    },
-    "shirt__129": {
-      "body_name": "00000"
-    },
-    "shirt__130": {
-      "body_name": "00000"
-    },
-    "shirt__131": {
-      "body_name": "00000"
-    },
-    "shirt__132": {
-      "body_name": "00000"
-    },
-    "shirt__133": {
-      "body_name": "00000"
-    },
-    "shirt__134": {
-      "body_name": "00000"
-    },
-    "shirt__135": {
-      "body_name": "00000"
-    },
-    "shirt__136": {
-      "body_name": "00000"
-    },
-    "shirt__137": {
-      "body_name": "00000"
-    },
-    "shirt__138": {
-      "body_name": "00000"
-    },
-    "shirt__139": {
-      "body_name": "00000"
-    },
-    "shirt__140": {
-      "body_name": "00000"
-    },
-    "shirt__141": {
-      "body_name": "00000"
-    },
-    "shirt__142": {
-      "body_name": "00000"
-    },
-    "shirt__143": {
-      "body_name": "00000"
-    },
-    "shirt__144": {
-      "body_name": "00000"
-    },
-    "shirt__145": {
-      "body_name": "00000"
-    },
-    "shirt__146": {
-      "body_name": "00000"
-    },
-    "shirt__147": {
-      "body_name": "00000"
-    },
-    "shirt__148": {
-      "body_name": "00000"
-    },
-    "shirt__149": {
-      "body_name": "00000"
-    },
-    "shirt__150": {
-      "body_name": "00000"
-    },
-    "shirt__151": {
-      "body_name": "00000"
-    },
-    "shirt__152": {
-      "body_name": "00000"
-    },
-    "shirt__153": {
-      "body_name": "00000"
-    },
-    "shirt__154": {
-      "body_name": "00000"
-    },
-    "shirt__155": {
-      "body_name": "00000"
-    },
-    "shirt__156": {
-      "body_name": "00000"
-    },
-    "shirt__157": {
-      "body_name": "00000"
-    },
-    "shirt__158": {
-      "body_name": "00000"
-    },
-    "shirt__159": {
-      "body_name": "00000"
-    },
-    "shirt__160": {
-      "body_name": "00000"
-    },
-    "shirt__161": {
-      "body_name": "00000"
-    },
-    "shirt__162": {
-      "body_name": "00000"
-    },
-    "shirt__163": {
-      "body_name": "00000"
-    },
-    "shirt__164": {
-      "body_name": "00000"
-    },
-    "shirt__165": {
-      "body_name": "00000"
-    },
-    "shirt__166": {
-      "body_name": "00000"
-    },
-    "shirt__167": {
-      "body_name": "00000"
-    },
-    "shirt__168": {
-      "body_name": "00000"
-    },
-    "shirt__169": {
-      "body_name": "00000"
-    },
-    "shirt__170": {
-      "body_name": "00000"
-    },
-    "shirt__171": {
-      "body_name": "00000"
-    },
-    "shirt__172": {
-      "body_name": "00000"
-    },
-    "shirt__173": {
-      "body_name": "00000"
-    },
-    "shirt__174": {
-      "body_name": "00000"
-    },
-    "shirt__175": {
-      "body_name": "00000"
-    },
-    "shirt__176": {
-      "body_name": "00000"
-    },
-    "shirt__177": {
-      "body_name": "00000"
-    },
-    "shirt__178": {
-      "body_name": "00000"
-    },
-    "shirt__179": {
-      "body_name": "00000"
-    },
-    "shirt__180": {
-      "body_name": "00000"
-    },
-    "shirt__181": {
-      "body_name": "00000"
-    },
-    "shirt__182": {
-      "body_name": "00000"
-    },
-    "shirt__183": {
-      "body_name": "00000"
-    },
-    "shirt__184": {
-      "body_name": "00000"
-    },
-    "shirt__185": {
-      "body_name": "00000"
-    },
-    "shirt__186": {
-      "body_name": "00000"
-    },
-    "shirt__187": {
-      "body_name": "00000"
-    },
-    "shirt__188": {
-      "body_name": "00000"
-    },
-    "shirt__189": {
-      "body_name": "00000"
-    },
-    "shirt__190": {
-      "body_name": "00000"
-    },
-    "shirt__191": {
-      "body_name": "00000"
-    },
-    "shirt__192": {
-      "body_name": "00000"
-    },
-    "shirt__193": {
-      "body_name": "00000"
-    },
-    "shirt__194": {
-      "body_name": "00000"
-    },
-    "shirt__195": {
-      "body_name": "00000"
-    },
-    "shirt__196": {
-      "body_name": "00000"
-    },
-    "shirt__197": {
-      "body_name": "00000"
-    },
-    "shirt__198": {
-      "body_name": "00000"
-    },
-    "shirt__199": {
-      "body_name": "00000"
-    },
-    "shirt__200": {
-      "body_name": "00000"
-    },
-    "shirt__201": {
-      "body_name": "00000"
-    },
-    "shirt__202": {
-      "body_name": "00000"
-    },
-    "shirt__203": {
-      "body_name": "00000"
-    },
-    "shirt__204": {
-      "body_name": "00000"
-    },
-    "shirt__205": {
-      "body_name": "00000"
-    },
-    "shirt__206": {
-      "body_name": "00000"
-    },
-    "shirt__207": {
-      "body_name": "00000"
-    },
-    "shirt__208": {
-      "body_name": "00000"
-    },
-    "shirt__209": {
-      "body_name": "00000"
-    },
-    "shirt__210": {
-      "body_name": "00000"
-    },
-    "shirt__211": {
-      "body_name": "00000"
-    },
-    "shirt__212": {
-      "body_name": "00000"
-    },
-    "shirt__213": {
-      "body_name": "00000"
-    },
-    "shirt__214": {
-      "body_name": "00000"
-    },
-    "shirt__215": {
-      "body_name": "00000"
-    },
-    "shirt__216": {
-      "body_name": "00000"
-    },
-    "shirt__217": {
-      "body_name": "00000"
-    },
-    "shirt__218": {
-      "body_name": "00000"
-    },
-    "shirt__219": {
-      "body_name": "00000"
-    },
-    "shirt__220": {
-      "body_name": "00000"
-    },
-    "shirt__221": {
-      "body_name": "00000"
-    },
-    "shirt__222": {
-      "body_name": "00000"
-    },
-    "shirt__223": {
-      "body_name": "00000"
-    },
-    "shirt__224": {
-      "body_name": "00000"
-    },
-    "shirt__225": {
-      "body_name": "00000"
-    },
-    "shirt__226": {
-      "body_name": "00000"
-    },
-    "shirt__227": {
-      "body_name": "00000"
-    },
-    "shirt__228": {
-      "body_name": "00000"
-    },
-    "shirt__229": {
-      "body_name": "00000"
-    },
-    "shirt__230": {
-      "body_name": "00000"
-    },
-    "shirt__231": {
-      "body_name": "00000"
-    },
-    "shirt__232": {
-      "body_name": "00000"
-    },
-    "shirt__233": {
-      "body_name": "00000"
-    },
-    "shirt__234": {
-      "body_name": "00000"
-    },
-    "shirt__235": {
-      "body_name": "00000"
-    },
-    "shirt__236": {
-      "body_name": "00000"
-    },
-    "shirt__237": {
-      "body_name": "00000"
-    },
-    "shirt__238": {
-      "body_name": "00000"
-    },
-    "shirt__239": {
-      "body_name": "00000"
-    },
-    "shirt__240": {
-      "body_name": "00000"
-    },
-    "shirt__241": {
-      "body_name": "00000"
-    },
-    "shirt__242": {
-      "body_name": "00000"
-    },
-    "shirt__243": {
-      "body_name": "00000"
-    },
-    "shirt__244": {
-      "body_name": "00000"
-    },
-    "shirt__245": {
-      "body_name": "00000"
-    },
-    "shirt__246": {
-      "body_name": "00000"
-    },
-    "shirt__247": {
-      "body_name": "00000"
-    },
-    "shirt__248": {
-      "body_name": "00000"
-    },
-    "shirt__249": {
-      "body_name": "00000"
-    },
-    "shirt__250": {
-      "body_name": "00000"
-    },
-    "shirt__251": {
-      "body_name": "00000"
-    },
-    "shirt__252": {
-      "body_name": "00000"
-    },
-    "shirt__253": {
-      "body_name": "00000"
-    },
-    "shirt__254": {
-      "body_name": "00000"
-    },
-    "shirt__255": {
-      "body_name": "00000"
-    },
-    "shirt__256": {
-      "body_name": "00000"
-    },
-    "shirt__257": {
-      "body_name": "00000"
-    },
-    "shirt__258": {
-      "body_name": "00000"
-    },
-    "shirt__259": {
-      "body_name": "00000"
-    },
-    "shirt__260": {
-      "body_name": "00000"
-    },
-    "shirt__261": {
-      "body_name": "00000"
-    },
-    "shirt__262": {
-      "body_name": "00000"
-    },
-    "shirt__263": {
-      "body_name": "00000"
-    },
-    "shirt__264": {
-      "body_name": "00000"
-    },
-    "shirt__265": {
-      "body_name": "00000"
-    },
-    "shirt__266": {
-      "body_name": "00000"
-    },
-    "shirt__267": {
-      "body_name": "00000"
-    },
-    "shirt__268": {
-      "body_name": "00000"
-    },
-    "shirt__269": {
-      "body_name": "00000"
-    },
-    "shirt__270": {
-      "body_name": "00000"
-    },
-    "shirt__271": {
-      "body_name": "00000"
-    },
-    "shirt__272": {
-      "body_name": "00000"
-    },
-    "shirt__273": {
-      "body_name": "00000"
-    },
-    "shirt__274": {
-      "body_name": "00000"
-    },
-    "shirt__275": {
-      "body_name": "00000"
-    },
-    "shirt__276": {
-      "body_name": "00000"
-    },
-    "shirt__277": {
-      "body_name": "00000"
-    },
-    "shirt__278": {
-      "body_name": "00000"
-    },
-    "shirt__279": {
-      "body_name": "00000"
-    },
-    "shirt__280": {
-      "body_name": "00000"
-    },
-    "shirt__281": {
-      "body_name": "00000"
-    },
-    "shirt__282": {
-      "body_name": "00000"
-    },
-    "shirt__283": {
-      "body_name": "00000"
-    },
-    "shirt__284": {
-      "body_name": "00000"
-    },
-    "shirt__285": {
-      "body_name": "00000"
-    },
-    "shirt__286": {
-      "body_name": "00000"
-    },
-    "shirt__287": {
-      "body_name": "00000"
-    },
-    "shirt__288": {
-      "body_name": "00000"
-    },
-    "shirt__289": {
-      "body_name": "00000"
-    },
-    "shirt__290": {
-      "body_name": "00000"
-    },
-    "shirt__291": {
-      "body_name": "00000"
-    },
-    "shirt__292": {
-      "body_name": "00000"
-    },
-    "shirt__293": {
-      "body_name": "00000"
-    },
-    "shirt__294": {
-      "body_name": "00000"
-    },
-    "shirt__295": {
-      "body_name": "00000"
-    },
-    "shirt__296": {
-      "body_name": "00000"
-    },
-    "shirt__297": {
-      "body_name": "00000"
-    },
-    "shirt__298": {
-      "body_name": "00000"
-    },
-    "shirt__299": {
+    "skirt_straight__137": {
       "body_name": "00000"
     }
   }
