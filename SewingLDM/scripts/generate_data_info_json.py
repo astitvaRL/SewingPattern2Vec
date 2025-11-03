@@ -2,6 +2,7 @@ import os
 import json
 import natsort
 import glob
+import shutil
 
 json_save_path = "data_info\\test_info.json"
 
@@ -21,6 +22,10 @@ for folder_name in folder_names:
         if len(sub_files)>0:
             sub_folder_dict = {"body_name": "00000"}
             folder_dict[sub_folder_name] = sub_folder_dict
+        else:
+            #remove the folder
+            print(f'Removing...{sub_folder_path}')
+            shutil.rmtree(sub_folder_path)
     info_dict[folder_name] = folder_dict
 
 with open(json_save_path, 'w') as f:
